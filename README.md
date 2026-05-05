@@ -79,7 +79,7 @@ Based on all patent records from 1976-2025:
 
 ### Step 1 - Clone the repository
 
-    git clone https://github.com/YOUR_USERNAME/patent_pipeline.git
+    git clone https://github.com/AMPUMUZAAIJUKA/cloudcomputing-patent-pipeline-22-U-5766.git
     cd patent_pipeline
 
 ### Step 2 - Create and activate a virtual environment
@@ -137,3 +137,9 @@ Running the full pipeline produces the following outputs:
 PatentsView Granted Patent Disambiguated Data
 United States Patent and Trademark Office
 https://data.uspto.gov/bulkdata/datasets/pvgpatdis
+
+## Author
+Name: AMPUMUZA AIJUKA
+RegNo:22/U/5766
+StudentNo:2200705766
+github link:https://github.com/AMPUMUZAAIJUKA/cloudcomputing-patent-pipeline-22-U-5766.git
