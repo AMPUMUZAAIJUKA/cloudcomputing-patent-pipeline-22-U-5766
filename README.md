@@ -1,4 +1,10 @@
-# Global Patent Intelligence Data Pipeline
+## GLOBAL PATENT INTELLIGENCE DATA PIPELINE
+Name: AMPUMUZA AIJUKA
+RegNo:22/U/5766
+github link:https://github.com/AMPUMUZAAIJUKA/cloudcomputing-patent-pipeline-22-U-5766.git
+Local URL: http://localhost:8501
+Network URL: http://127.0.0.1:8501
+# introduction
 A data engineering project that builds an end-to-end pipeline for collecting,
 cleaning, storing, and analyzing real-world patent data from the USPTO PatentsView
 database. The project covers over 200,000 patent records spanning multiple years
@@ -142,4 +148,4 @@ https://data.uspto.gov/bulkdata/datasets/pvgpatdis
 Name: AMPUMUZA AIJUKA
 RegNo:22/U/5766
 StudentNo:2200705766
-github link:https://github.com/AMPUMUZAAIJUKA/cloudcomputing-patent-pipeline-22-U-5766.git
+
